@@ -10,6 +10,7 @@
 <p>chmod +x install.sh</p>
 <p>./install.sh</p>
 <p>sdk install java 17.0.9-amzn</p>
+<p>write "y", without " just y. To default java 17</p>
 <p>chmod +x paper.sh</p>
 <p>./paper.sh</p>
 <p>Create another tab and chmod +x waterfall.sh</p>
